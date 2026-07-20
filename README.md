@@ -1,6 +1,6 @@
 # To-Do List App
 
-A simple, responsive To-Do List web app built with vanilla JavaScript, HTML, and CSS. Tasks are saved in the browser's `localStorage`, so your list persists even after refreshing the page.
+A simple, responsive To-Do List web app built with vanilla JavaScript (ES6+), HTML, and CSS. Tasks are saved in the browser's `localStorage`, so your list persists even after refreshing the page.
 
 ## Features
 
@@ -14,22 +14,6 @@ A simple, responsive To-Do List web app built with vanilla JavaScript, HTML, and
 
 - HTML5
 - CSS3 (Flexbox)
-- JavaScript (Vanilla JS, DOM Manipulation)
+- JavaScript (ES6+, ES Modules, Arrow Functions, Destructuring)
 
 ## Project Structure
-
-project/
-├── index.html
-├── style.css
-├── script.js
-└── assets/
-└── images/
-├── icon.png
-├── checked.png
-└── unchecked.png
-
-## Usage
-
-- Type a task in the input field and press **Enter** or click **Add**.
-- Click on a task to mark it as completed.
-- Click the **×** next to a task to delete it.
