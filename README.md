@@ -17,3 +17,17 @@ A simple, responsive To-Do List web app built with vanilla JavaScript (ES6+), HT
 - JavaScript (ES6+, ES Modules, Arrow Functions, Destructuring)
 
 ## Project Structure
+project/
+├── index.html
+├── css/
+│ └── style.css
+├── js/
+│ ├── main.js
+│ ├── dom.js
+│ ├── task.js
+│ └── storage.js
+└── assets/
+└── images/
+├── icon.png
+├── checked.png
+└── unchecked.png
