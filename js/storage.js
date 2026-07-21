@@ -6,4 +6,5 @@ export const SaveData = () => {
 
 export const ShowList = () => {
     ListContainer.innerHTML = localStorage.getItem("data") || "";
+
 };

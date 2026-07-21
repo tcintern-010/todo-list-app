@@ -117,3 +117,43 @@ ul li span:hover {
     background: #edeef0;
 
 }
+
+.filters {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 15px;
+}
+
+.filter-btn {
+    border: none;
+    outline: none;
+    padding: 8px 20px;
+    background: #edeef0;
+    color: #555;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+.filter-btn.active {
+    background: #ff5945;
+    color: #ffff;
+}
+
+.task-count {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+    font-size: 14px;
+    color: #555;
+}
+
+ul li input.edit-input {
+    font-size: 17px;
+    font-family: 'Poppins', sans-serif;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid #ff5945;
+    width: 70%;
+}
