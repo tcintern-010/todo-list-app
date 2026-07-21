@@ -18,6 +18,9 @@ A responsive To-Do List web app built with vanilla JavaScript (ES6+), HTML, and 
 - HTML5
 - CSS3 (Flexbox)
 - JavaScript (ES6+, ES Modules, Arrow Functions, Destructuring, Template Literals)
+
+## Project Structure
+
 project/
 ├── index.html
 ├── css/
@@ -32,6 +35,3 @@ project/
 ├── icon.png
 ├── checked.png
 └── unchecked.png
-
-
-## Project Structure
